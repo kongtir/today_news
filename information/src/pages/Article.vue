@@ -374,6 +374,6 @@
 		color: #F56C6C;
 	}
 	i.fa.fa-pencil-square{
-		color: #652f6c;
+		color: #006098;
 	}	
 </style>

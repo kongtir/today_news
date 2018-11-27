@@ -116,8 +116,7 @@ export default {
     width: 100%;
     height: 80px;
     top: 0;
-    
-    background: linear-gradient(to bottom,#212322,#54575a);  
+    background: #006098;  
     padding: 0 1em; 
   }
   .header .logoDiv>i{

@@ -22,7 +22,7 @@
 		    		<li>注册时间: &nbsp;&nbsp;{{user.regTime}}</li>
 		    		<li>
 		    			用户状态: &nbsp;&nbsp;<el-switch v-model="user.enabled"
-		    			active-color="#652f6c" inactive-color="#ff4949" @change="statusChange">
+		    			active-color="#006098" inactive-color="#ff4949" @change="statusChange">
 						</el-switch>
 		    		</li>
 		    	</ul>
@@ -212,7 +212,7 @@
 		color:#F56C6C;	
 	}
 	.opeUser i.fa-pencil-square{
-		color: #652f6c;
+		color: #006098;
 		margin-left: .6em;
 	}
 	.box-card .userFace {
